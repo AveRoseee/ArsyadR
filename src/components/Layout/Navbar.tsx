@@ -39,8 +39,9 @@ const Navbar = ({
         ))}
       </div>
 
+      {/* DISABLED FOR A WHILE */}
       {/* Theme Toggle */}
-      <div className="bg-zinc-300 dark:bg-zinc-900 rounded-lg">
+      {/* <div className="bg-zinc-300 dark:bg-zinc-900 rounded-lg">
         <div className="bg-transparent rounded-xl gap-2 flex">
           <button
             className="hidden lg:flex bg-transparent p-3 hover:bg-zinc-500/20
@@ -51,7 +52,7 @@ const Navbar = ({
             {isDarkMode ? <LuMoon /> : <LuSun />}
           </button>
         </div>
-      </div>
+      </div> */}
 
       <button
         className="bg-transparent p-3 hover:bg-zinc-500/20 dark:hover:bg-zinc-700
