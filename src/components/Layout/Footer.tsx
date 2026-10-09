@@ -17,7 +17,9 @@ const Footer = () => {
             Instagram
           </a>
           <a
-            // href="https://github.com/InsoniacX"
+            href="/FullStack Developer - Arsyad Rianda Putra.pdf"
+            target="_blank"
+            rel="noreferrer"
             className="text-gray-700 hover:text-gray-900 dark:text-white hover:dark:text-white/60 font-extrabold uppercase"
           >
             Resume
